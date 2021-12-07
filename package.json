@@ -1,0 +1,29 @@
+{
+  "name": "gramjs-session",
+  "version": "1.0.0",
+  "description": "String session generator for gram.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsOnlyMyUsername/gramjs-session.git"
+  },
+  "keywords": [
+    "gram.js",
+    "gramjs",
+    "telegram",
+    "string-session"
+  ],
+  "author": "ItsOnlyMyUsername",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ItsOnlyMyUsername/gramjs-session/issues"
+  },
+  "homepage": "https://github.com/ItsOnlyMyUsername/gramjs-session#readme",
+  "dependencies": {
+    "prompts": "^2.4.2",
+    "telegram": "^2.0.11"
+  }
+}
