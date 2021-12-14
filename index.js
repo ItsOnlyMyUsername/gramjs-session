@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const { TelegramClient } = require('telegram')
 const { StringSession } = require('telegram/sessions')
 const { Logger } = require('telegram/extensions')
